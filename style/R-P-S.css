@@ -1,0 +1,50 @@
+body{
+    background-color: black; 
+    color: white;
+ }
+ body {
+     max-width: max-content;
+     margin: auto;
+ }
+ img{
+     height: 60px;
+ }
+.emoji-updte{
+     background-color: transparent;
+     border: 3px solid white;
+     padding: 30px;
+     border-radius: 65px;
+     margin: 24px;
+     cursor: pointer;
+}
+.rest-btn{
+     background-color: white;
+     border-radius:50px ;
+     font-weight: bold;
+     padding: 15px;
+     font-size: 18px ;
+     cursor: pointer;
+     margin-left: 100px;
+
+}
+.rest-btn2{
+    background-color: white;
+    border-radius:50px ;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 18px ;
+    cursor: pointer;
+    
+
+}
+.head-style{
+ margin: 48px;
+ font-size:50px ;
+}
+.js-2{
+ margin: 30px;
+}.js-1{
+ margin: 30px;
+}.js-3{
+ margin: 30px;
+}

@@ -1,0 +1,27 @@
+body{
+    font-family: Arial;
+}
+.inpCss,.inpCss-1{
+    display: grid;
+    grid-template-columns: 200px 150px 100px ;
+    column-gap: 10px;
+    row-gap: 10px;
+    margin-bottom: 10px;
+}
+.inpCss-2{
+    padding: 10px;
+    font-weight: bold;
+}
+.btn-css{
+    background-color: chartreuse;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+.btn-dlt{
+    font-weight: bold;
+    color: white;
+    background-color: rgb(239, 111, 111);
+    border: none;
+    padding: 10px;
+}
